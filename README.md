@@ -18,3 +18,10 @@ Details:
   + There is a delay effect when you hover: 0.3 second
   
 - Choose random color by using Math.random()
+
+
+3. Todos app:
+- Use HTML, CSS, jQuery
+- Styling: use font awesome to add in plus, and trash can
+- Remove the li, if we click on delete
+- Add in button: using jQuery, if we click, the text field will appear or disappear
